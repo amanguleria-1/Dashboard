@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@material-ui/data-grid": "^4.0.0-alpha.37",
+    "@mui/x-data-grid": "^6.12.1",
+    "data-grid": "^3.0.0",
+    "react-router-dom": "^6.15.0"
+  }
+}
